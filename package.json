@@ -1,0 +1,9 @@
+{
+  "name": "StarWars",
+  "version": "1.0.0",
+  "description": "An app which is f or li st ing t he n a me s o f S t a r Wa rs",
+  "main": "index.js",
+  "repository": "https://github.com/hadeoh/StarWars",
+  "author": "hadeoh <usthmandanfodio@gmail.com>",
+  "license": "MIT"
+}
